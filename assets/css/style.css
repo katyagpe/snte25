@@ -1,0 +1,81 @@
+.btn-pill {
+	border-radius: 1.5rem;
+}
+.btn-primary {
+	color: #fff;
+	background-color: #007bff;
+	border-color: #007bff;
+}
+.btn-primary:hover {
+	color: #fff;
+	background-color: #0069d9;
+	border-color: #0062cc;
+}
+.btn-danger {
+	color: #fff;
+	background-color: #dc3545;
+	border-color: #dc3545;
+}
+.btn-danger:hover {
+	color: #fff;
+	background-color: #c82333;
+	border-color: #bd2130;
+}
+.expense-danger {
+	color: #dc3545;
+}
+.expense-text {
+	color: #000;
+}
+.table-description {
+	margin-bottom: 100px;
+}
+.box-relation {
+	border: 1px solid #dee2e6 !important;
+}
+.expense {
+	display: inline-block;
+	font-size: 14px;
+	text-align: left;
+	background-color: #fff;
+	height: 40px;
+	-webkit-box-shadow: 0 1px 1px 0 rgba(0,0,0,.2);
+	box-shadow: 0 1px 1px 0 rgba(0,0,0,.1);
+	margin-bottom: 10px;
+}
+.expense:hover{
+    cursor: pointer;
+    -webkit-box-shadow: 0 1px 1px 0 rgba(0,0,0,.4);
+  box-shadow: 0 1px 1px 0 rgba(0,0,0,.3);
+}
+
+.expense > .expense-icon{
+  background: #337ab7;
+  width: 33px;
+  float: left;
+  color: #fff!important;
+  height: 60%;
+  text-align: center;
+}
+
+.expense > .expense-icon > .glyphicon{
+  position:relative;
+  top: calc(50% - 9px)!important; /* 50% - 3/4 of icon height */
+}
+.expense > .expense-icon.update-success{
+  background: #5cb85c!important;
+}
+
+.expense > .expense-icon .update-danger{
+  background: #d9534f!important;
+}
+
+.expense > .expense-icon .update-info{
+  background: #5bc0de!important;
+}
+.expense > .expense-text{
+  line-height: 19px;
+  padding-top: 11px;
+  padding-left: 45px;
+  padding-right: 20px;
+}
