@@ -30,19 +30,19 @@
                     </a>
                 </div>
             </div>
-            <!-- <div class="row">
+            <div class="row">
                 <div class="col-md-6">
-                    <a href="https://snte.org.mx/seccion25/legislacion/">
-                        <img src="<?php echo base_url('assets/images/leyesnacionales.jpeg'); ?>" class="thumb" />
+                    <a href="#">
+                        <img src="<?php echo base_url('assets/images/leyesnacionales.jpeg'); ?>" class="thumb" style="width: 100%; margin-bottom: 50px;" />
                     </a>
                 </div>
 
                 <div class="col-md-6">
-                    <a href="<?php echo base_url() ?>biblioteca-estatal">
-                        <img src="<?php echo base_url('assets/images/leyesestatales.jpeg'); ?>" class="thumb" />
+                    <a href="https://www.congresoqroo.gob.mx/leyes/">
+                        <img src="<?php echo base_url('assets/images/leyesestatales.jpeg'); ?>" class="thumb" style="width: 100%; margin-bottom: 50px;" />
                     </a>
                 </div>
-            </div> -->
+            </div>
         </div>
     </div>
 </html>
