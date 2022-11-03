@@ -49,6 +49,26 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 | Examples:	my-controller/index	-> my_controller/index
 |		my-controller/my-method	-> my_controller/my_method
 */
-$route['default_controller'] = 'welcome';
+$route['default_controller'] = 'home';
 $route['404_override'] = '';
 $route['translate_uri_dashes'] = FALSE;
+
+$route['inicio'] = 'home';
+
+$route['multimedia'] = 'multimedia';
+$route['multimedia/videos'] = 'multimedia/video';
+
+$route['convenios'] = 'agreement';
+$route['convenios/nacionales'] = 'agreement/national';
+$route['convenios/estatales'] = 'agreement/state';
+
+$route['convocatoriaycomunicado'] = 'announcementrelease';
+$route['seccionsindical'] = 'unionsection';
+$route['servicios'] = 'modules/services';
+
+$route['biblioteca'] = 'modules/library';
+$route['biblioteca-nacional'] = 'modules/librarynational';
+$route['biblioteca-estatal'] = 'modules/librarystate';
+
+$route['noticias'] = 'modules/news';
+$route['contacto'] = 'modules/contact';
