@@ -8,17 +8,13 @@
             <div class="row">
                 <div id="mailbox" class="col-md-8">
                     <div class="contact-form-content">
-                        <div class="title">
-                            <span>Contacta con nosotros</span>
-                            <h2>Buzón</h2>
+                        <div class="alert alert-error" role="alert">
+                        <h4 class="alert-heading">Oh! a ocurrido un problema</h4>
+                        <p>Revisa de nuevo tú correo</p>
+                        <hr>
+                        <p class="mb-0">Estamos a sus ordenes</p>
+                        <a href="<?php echo base_url() ?>contacto/"><button type="button" class="btn btn-info" style="margin-top: 25px; margin-bottom: 25px;">Regresar</button></a>
                         </div>
-                        <form action="<?=base_url("send")?>" method="post" class="contact-form" novalidate="novalidate">
-                            <input type="text" name="name" placeholder="Nombres(s)" />
-                            <input type="email" name="email" placeholder="Correo electrónico" />
-                            <textarea name="message" placeholder="Queremos saber tu opinión"></textarea>
-                            <button type="submit" class="thm-btn yellow-bg">Enviar</button>
-                            <div class="form-result"></div>
-                        </form>
                     </div>
                 </div>
                 <div id="information" class="col-md-4">

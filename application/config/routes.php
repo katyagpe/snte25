@@ -72,3 +72,4 @@ $route['biblioteca-estatal'] = 'modules/librarystate';
 
 $route['noticias'] = 'modules/news';
 $route['contacto'] = 'modules/contact';
+$route['send'] = 'modules/enviar';

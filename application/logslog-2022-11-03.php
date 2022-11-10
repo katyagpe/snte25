@@ -630,3 +630,150 @@ INFO - 2022-11-03 17:53:45 --> File loaded: C:\xampp\htdocs\snte25\application\v
 INFO - 2022-11-03 17:53:45 --> File loaded: C:\xampp\htdocs\snte25\application\views\templates/footer_view.php
 INFO - 2022-11-03 17:53:45 --> Final output sent to browser
 DEBUG - 2022-11-03 17:53:45 --> Total execution time: 0.0784
+INFO - 2022-11-03 23:48:31 --> Config Class Initialized
+INFO - 2022-11-03 23:48:31 --> Hooks Class Initialized
+DEBUG - 2022-11-03 23:48:31 --> UTF-8 Support Enabled
+INFO - 2022-11-03 23:48:31 --> Utf8 Class Initialized
+INFO - 2022-11-03 23:48:31 --> URI Class Initialized
+INFO - 2022-11-03 23:48:31 --> Router Class Initialized
+INFO - 2022-11-03 23:48:31 --> Output Class Initialized
+INFO - 2022-11-03 23:48:31 --> Security Class Initialized
+DEBUG - 2022-11-03 23:48:31 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-11-03 23:48:31 --> Input Class Initialized
+INFO - 2022-11-03 23:48:31 --> Language Class Initialized
+INFO - 2022-11-03 23:48:31 --> Loader Class Initialized
+INFO - 2022-11-03 23:48:31 --> Helper loaded: url_helper
+INFO - 2022-11-03 23:48:31 --> Helper loaded: form_helper
+INFO - 2022-11-03 23:48:31 --> Form Validation Class Initialized
+INFO - 2022-11-03 23:48:31 --> Controller Class Initialized
+INFO - 2022-11-03 23:48:31 --> File loaded: C:\xampp\htdocs\snte25\application\views\templates/header_view.php
+INFO - 2022-11-03 23:48:31 --> File loaded: C:\xampp\htdocs\snte25\application\views\templates/multimedia_view.php
+INFO - 2022-11-03 23:48:31 --> File loaded: C:\xampp\htdocs\snte25\application\views\templates/footer_view.php
+INFO - 2022-11-03 23:48:31 --> Final output sent to browser
+DEBUG - 2022-11-03 23:48:31 --> Total execution time: 0.4134
+INFO - 2022-11-03 23:48:33 --> Config Class Initialized
+INFO - 2022-11-03 23:48:33 --> Hooks Class Initialized
+DEBUG - 2022-11-03 23:48:33 --> UTF-8 Support Enabled
+INFO - 2022-11-03 23:48:33 --> Utf8 Class Initialized
+INFO - 2022-11-03 23:48:33 --> URI Class Initialized
+INFO - 2022-11-03 23:48:33 --> Router Class Initialized
+INFO - 2022-11-03 23:48:33 --> Output Class Initialized
+INFO - 2022-11-03 23:48:33 --> Security Class Initialized
+DEBUG - 2022-11-03 23:48:33 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-11-03 23:48:33 --> Input Class Initialized
+INFO - 2022-11-03 23:48:33 --> Language Class Initialized
+INFO - 2022-11-03 23:48:33 --> Loader Class Initialized
+INFO - 2022-11-03 23:48:33 --> Helper loaded: url_helper
+INFO - 2022-11-03 23:48:33 --> Helper loaded: form_helper
+INFO - 2022-11-03 23:48:33 --> Form Validation Class Initialized
+INFO - 2022-11-03 23:48:33 --> Controller Class Initialized
+INFO - 2022-11-03 23:48:33 --> File loaded: C:\xampp\htdocs\snte25\application\views\templates/header_view.php
+INFO - 2022-11-03 23:48:33 --> File loaded: C:\xampp\htdocs\snte25\application\views\templates/multimedia_video_view.php
+INFO - 2022-11-03 23:48:33 --> File loaded: C:\xampp\htdocs\snte25\application\views\templates/footer_view.php
+INFO - 2022-11-03 23:48:33 --> Final output sent to browser
+DEBUG - 2022-11-03 23:48:33 --> Total execution time: 0.1234
+INFO - 2022-11-03 23:48:34 --> Config Class Initialized
+INFO - 2022-11-03 23:48:35 --> Hooks Class Initialized
+DEBUG - 2022-11-03 23:48:35 --> UTF-8 Support Enabled
+INFO - 2022-11-03 23:48:35 --> Utf8 Class Initialized
+INFO - 2022-11-03 23:48:35 --> URI Class Initialized
+INFO - 2022-11-03 23:48:35 --> Router Class Initialized
+INFO - 2022-11-03 23:48:35 --> Output Class Initialized
+INFO - 2022-11-03 23:48:35 --> Security Class Initialized
+DEBUG - 2022-11-03 23:48:35 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-11-03 23:48:35 --> Input Class Initialized
+INFO - 2022-11-03 23:48:35 --> Language Class Initialized
+INFO - 2022-11-03 23:48:35 --> Loader Class Initialized
+INFO - 2022-11-03 23:48:35 --> Helper loaded: url_helper
+INFO - 2022-11-03 23:48:35 --> Helper loaded: form_helper
+INFO - 2022-11-03 23:48:35 --> Form Validation Class Initialized
+INFO - 2022-11-03 23:48:35 --> Controller Class Initialized
+INFO - 2022-11-03 23:48:35 --> File loaded: C:\xampp\htdocs\snte25\application\views\templates/header_view.php
+INFO - 2022-11-03 23:48:35 --> File loaded: C:\xampp\htdocs\snte25\application\views\templates/multimedia_view.php
+INFO - 2022-11-03 23:48:35 --> File loaded: C:\xampp\htdocs\snte25\application\views\templates/footer_view.php
+INFO - 2022-11-03 23:48:35 --> Final output sent to browser
+DEBUG - 2022-11-03 23:48:35 --> Total execution time: 0.0749
+INFO - 2022-11-03 23:52:59 --> Config Class Initialized
+INFO - 2022-11-03 23:52:59 --> Hooks Class Initialized
+DEBUG - 2022-11-03 23:52:59 --> UTF-8 Support Enabled
+INFO - 2022-11-03 23:52:59 --> Utf8 Class Initialized
+INFO - 2022-11-03 23:52:59 --> URI Class Initialized
+INFO - 2022-11-03 23:52:59 --> Router Class Initialized
+INFO - 2022-11-03 23:52:59 --> Output Class Initialized
+INFO - 2022-11-03 23:52:59 --> Security Class Initialized
+DEBUG - 2022-11-03 23:52:59 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-11-03 23:52:59 --> Input Class Initialized
+INFO - 2022-11-03 23:52:59 --> Language Class Initialized
+INFO - 2022-11-03 23:52:59 --> Loader Class Initialized
+INFO - 2022-11-03 23:52:59 --> Helper loaded: url_helper
+INFO - 2022-11-03 23:52:59 --> Helper loaded: form_helper
+INFO - 2022-11-03 23:52:59 --> Form Validation Class Initialized
+INFO - 2022-11-03 23:52:59 --> Controller Class Initialized
+INFO - 2022-11-03 23:52:59 --> File loaded: C:\xampp\htdocs\snte25\application\views\templates/header_view.php
+INFO - 2022-11-03 23:52:59 --> File loaded: C:\xampp\htdocs\snte25\application\views\templates/multimedia_view.php
+INFO - 2022-11-03 23:52:59 --> File loaded: C:\xampp\htdocs\snte25\application\views\templates/footer_view.php
+INFO - 2022-11-03 23:52:59 --> Final output sent to browser
+DEBUG - 2022-11-03 23:52:59 --> Total execution time: 0.0847
+INFO - 2022-11-03 23:53:01 --> Config Class Initialized
+INFO - 2022-11-03 23:53:01 --> Hooks Class Initialized
+DEBUG - 2022-11-03 23:53:01 --> UTF-8 Support Enabled
+INFO - 2022-11-03 23:53:01 --> Utf8 Class Initialized
+INFO - 2022-11-03 23:53:01 --> URI Class Initialized
+INFO - 2022-11-03 23:53:01 --> Router Class Initialized
+INFO - 2022-11-03 23:53:01 --> Output Class Initialized
+INFO - 2022-11-03 23:53:01 --> Security Class Initialized
+DEBUG - 2022-11-03 23:53:01 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-11-03 23:53:01 --> Input Class Initialized
+INFO - 2022-11-03 23:53:01 --> Language Class Initialized
+INFO - 2022-11-03 23:53:01 --> Loader Class Initialized
+INFO - 2022-11-03 23:53:01 --> Helper loaded: url_helper
+INFO - 2022-11-03 23:53:01 --> Helper loaded: form_helper
+INFO - 2022-11-03 23:53:01 --> Form Validation Class Initialized
+INFO - 2022-11-03 23:53:01 --> Controller Class Initialized
+INFO - 2022-11-03 23:53:01 --> File loaded: C:\xampp\htdocs\snte25\application\views\templates/header_view.php
+INFO - 2022-11-03 23:53:01 --> File loaded: C:\xampp\htdocs\snte25\application\views\templates/multimedia_video_view.php
+INFO - 2022-11-03 23:53:01 --> File loaded: C:\xampp\htdocs\snte25\application\views\templates/footer_view.php
+INFO - 2022-11-03 23:53:01 --> Final output sent to browser
+DEBUG - 2022-11-03 23:53:01 --> Total execution time: 0.1119
+INFO - 2022-11-03 23:56:07 --> Config Class Initialized
+INFO - 2022-11-03 23:56:07 --> Hooks Class Initialized
+DEBUG - 2022-11-03 23:56:07 --> UTF-8 Support Enabled
+INFO - 2022-11-03 23:56:07 --> Utf8 Class Initialized
+INFO - 2022-11-03 23:56:07 --> URI Class Initialized
+INFO - 2022-11-03 23:56:07 --> Router Class Initialized
+INFO - 2022-11-03 23:56:07 --> Output Class Initialized
+INFO - 2022-11-03 23:56:07 --> Security Class Initialized
+DEBUG - 2022-11-03 23:56:07 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-11-03 23:56:07 --> Input Class Initialized
+INFO - 2022-11-03 23:56:07 --> Language Class Initialized
+INFO - 2022-11-03 23:56:07 --> Loader Class Initialized
+INFO - 2022-11-03 23:56:07 --> Helper loaded: url_helper
+INFO - 2022-11-03 23:56:07 --> Helper loaded: form_helper
+INFO - 2022-11-03 23:56:07 --> Form Validation Class Initialized
+INFO - 2022-11-03 23:56:07 --> Controller Class Initialized
+INFO - 2022-11-03 23:56:07 --> File loaded: C:\xampp\htdocs\snte25\application\views\templates/header_view.php
+INFO - 2022-11-03 23:56:07 --> File loaded: C:\xampp\htdocs\snte25\application\views\templates/multimedia_view.php
+INFO - 2022-11-03 23:56:07 --> File loaded: C:\xampp\htdocs\snte25\application\views\templates/footer_view.php
+INFO - 2022-11-03 23:56:07 --> Final output sent to browser
+DEBUG - 2022-11-03 23:56:07 --> Total execution time: 0.0748
+INFO - 2022-11-03 23:59:57 --> Config Class Initialized
+INFO - 2022-11-03 23:59:57 --> Hooks Class Initialized
+DEBUG - 2022-11-03 23:59:57 --> UTF-8 Support Enabled
+INFO - 2022-11-03 23:59:57 --> Utf8 Class Initialized
+INFO - 2022-11-03 23:59:57 --> URI Class Initialized
+INFO - 2022-11-03 23:59:57 --> Router Class Initialized
+INFO - 2022-11-03 23:59:57 --> Output Class Initialized
+INFO - 2022-11-03 23:59:57 --> Security Class Initialized
+DEBUG - 2022-11-03 23:59:57 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-11-03 23:59:57 --> Input Class Initialized
+INFO - 2022-11-03 23:59:57 --> Language Class Initialized
+INFO - 2022-11-03 23:59:57 --> Loader Class Initialized
+INFO - 2022-11-03 23:59:57 --> Helper loaded: url_helper
+INFO - 2022-11-03 23:59:57 --> Helper loaded: form_helper
+INFO - 2022-11-03 23:59:57 --> Form Validation Class Initialized
+INFO - 2022-11-03 23:59:57 --> Controller Class Initialized
+INFO - 2022-11-03 23:59:57 --> File loaded: C:\xampp\htdocs\snte25\application\views\templates/header_view.php
+INFO - 2022-11-03 23:59:57 --> File loaded: C:\xampp\htdocs\snte25\application\views\templates/multimedia_view.php
+INFO - 2022-11-03 23:59:57 --> File loaded: C:\xampp\htdocs\snte25\application\views\templates/footer_view.php
+INFO - 2022-11-03 23:59:57 --> Final output sent to browser
+DEBUG - 2022-11-03 23:59:57 --> Total execution time: 0.0931
