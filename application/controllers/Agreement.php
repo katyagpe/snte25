@@ -7,6 +7,7 @@ class Agreement extends CI_Controller
     {
         parent::__construct();
         $this->load->helper('url');
+        $this->load->model("Agreement_model");
     }
 
     public function index()
@@ -20,9 +21,11 @@ class Agreement extends CI_Controller
         $this->load->view('templates/national_agreement_view.php');
         $this->load->view('templates/footer_view.php');
     }
-    public function state() {
+    public function state($id) {
+        $data['categories'] = $this->Agreement_model->getCategoryState();
+        $data['description'] = $this->Agreement_model->getDescriptionState($id);
         $this->load->view('templates/header_view.php');
-        $this->load->view('templates/state_agreement_view.php');
+        $this->load->view('templates/state_agreement_view.php', $data);
         $this->load->view('templates/footer_view.php');
     }
 }

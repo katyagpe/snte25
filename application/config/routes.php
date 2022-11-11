@@ -60,7 +60,7 @@ $route['multimedia/videos'] = 'multimedia/video';
 
 $route['convenios'] = 'agreement';
 $route['convenios/nacionales'] = 'agreement/national';
-$route['convenios/estatales'] = 'agreement/state';
+$route['convenios/estatales/(:any)'] = 'agreement/state/$1';
 
 $route['convocatoriaycomunicado'] = 'announcementrelease';
 $route['seccionsindical'] = 'unionsection';

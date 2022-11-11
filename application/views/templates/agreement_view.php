@@ -22,7 +22,7 @@
                 </div>
 
                 <div class="col">
-                    <a href="<?php echo base_url() ?>convenios/estatales">
+                    <a href="<?php echo base_url() ?>convenios/estatales/all">
                         <div class="card-information state">
                             <div class="top">
                                 <div class="wrapper">
