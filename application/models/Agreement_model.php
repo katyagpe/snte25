@@ -20,6 +20,17 @@ class Agreement_model extends CI_Model {
 		";
 		return $this->db->query($query)->result_array();
 	}
+    /** Total de convenios */
+    public function total() {
+        $query = "
+            SELECT
+                COUNT(name_category) as 'total'
+            FROM 
+                `agreement_state_filter`
+            WHERE status = 0
+        ";
+        return $this->db->query($query)->result_array();
+    }
     public function getDescriptionState($id) {
         if ($id == 'all') {
             $query = "

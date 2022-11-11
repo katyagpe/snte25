@@ -28,7 +28,9 @@
                                 <div class="wrapper">
                                     <h1 class="heading">Convenios Estatales</h1>
                                     <p class="temp">
-                                        <span class="temp-value">16</span>
+                                    <?php foreach ( $total as $quantities => $quantity ) : ?>
+                                        <span class="temp-value"><?=$quantity['total']; ?></span>
+                                    <?php endforeach; ?>
                                     </p>
                                 </div>
                             </div>

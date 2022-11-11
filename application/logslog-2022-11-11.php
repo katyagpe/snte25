@@ -736,3 +736,636 @@ INFO - 2022-11-11 18:04:41 --> File loaded: C:\xampp\htdocs\snte25\application\v
 INFO - 2022-11-11 18:04:41 --> File loaded: C:\xampp\htdocs\snte25\application\views\templates/footer_view.php
 INFO - 2022-11-11 18:04:41 --> Final output sent to browser
 DEBUG - 2022-11-11 18:04:41 --> Total execution time: 0.0507
+INFO - 2022-11-11 19:32:23 --> Config Class Initialized
+INFO - 2022-11-11 19:32:23 --> Hooks Class Initialized
+DEBUG - 2022-11-11 19:32:23 --> UTF-8 Support Enabled
+INFO - 2022-11-11 19:32:23 --> Utf8 Class Initialized
+INFO - 2022-11-11 19:32:23 --> URI Class Initialized
+INFO - 2022-11-11 19:32:23 --> Router Class Initialized
+INFO - 2022-11-11 19:32:23 --> Output Class Initialized
+INFO - 2022-11-11 19:32:23 --> Security Class Initialized
+DEBUG - 2022-11-11 19:32:23 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-11-11 19:32:23 --> Input Class Initialized
+INFO - 2022-11-11 19:32:23 --> Language Class Initialized
+INFO - 2022-11-11 19:32:23 --> Loader Class Initialized
+INFO - 2022-11-11 19:32:23 --> Helper loaded: url_helper
+INFO - 2022-11-11 19:32:23 --> Helper loaded: form_helper
+INFO - 2022-11-11 19:32:23 --> Form Validation Class Initialized
+INFO - 2022-11-11 19:32:23 --> Controller Class Initialized
+INFO - 2022-11-11 19:32:23 --> Database Driver Class Initialized
+INFO - 2022-11-11 19:32:23 --> Model "Agreement_model" initialized
+ERROR - 2022-11-11 19:32:23 --> Query error: Unknown column 'name_category' in 'field list' - Invalid query: 
+            SELECT
+                COUNT(name_category) as 'total'
+            WHERE
+                status = 0
+        
+INFO - 2022-11-11 19:32:23 --> Language file loaded: language/english/db_lang.php
+INFO - 2022-11-11 19:32:24 --> Config Class Initialized
+INFO - 2022-11-11 19:32:24 --> Hooks Class Initialized
+DEBUG - 2022-11-11 19:32:24 --> UTF-8 Support Enabled
+INFO - 2022-11-11 19:32:24 --> Utf8 Class Initialized
+INFO - 2022-11-11 19:32:24 --> URI Class Initialized
+INFO - 2022-11-11 19:32:24 --> Router Class Initialized
+INFO - 2022-11-11 19:32:24 --> Output Class Initialized
+INFO - 2022-11-11 19:32:24 --> Security Class Initialized
+DEBUG - 2022-11-11 19:32:24 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-11-11 19:32:24 --> Input Class Initialized
+INFO - 2022-11-11 19:32:24 --> Language Class Initialized
+INFO - 2022-11-11 19:32:24 --> Loader Class Initialized
+INFO - 2022-11-11 19:32:24 --> Helper loaded: url_helper
+INFO - 2022-11-11 19:32:24 --> Helper loaded: form_helper
+INFO - 2022-11-11 19:32:24 --> Form Validation Class Initialized
+INFO - 2022-11-11 19:32:24 --> Controller Class Initialized
+INFO - 2022-11-11 19:32:24 --> Database Driver Class Initialized
+INFO - 2022-11-11 19:32:24 --> Model "Agreement_model" initialized
+ERROR - 2022-11-11 19:32:24 --> Query error: Unknown column 'name_category' in 'field list' - Invalid query: 
+            SELECT
+                COUNT(name_category) as 'total'
+            WHERE
+                status = 0
+        
+INFO - 2022-11-11 19:32:24 --> Language file loaded: language/english/db_lang.php
+INFO - 2022-11-11 19:32:45 --> Config Class Initialized
+INFO - 2022-11-11 19:32:45 --> Hooks Class Initialized
+DEBUG - 2022-11-11 19:32:45 --> UTF-8 Support Enabled
+INFO - 2022-11-11 19:32:45 --> Utf8 Class Initialized
+INFO - 2022-11-11 19:32:45 --> URI Class Initialized
+INFO - 2022-11-11 19:32:45 --> Router Class Initialized
+INFO - 2022-11-11 19:32:45 --> Output Class Initialized
+INFO - 2022-11-11 19:32:45 --> Security Class Initialized
+DEBUG - 2022-11-11 19:32:45 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-11-11 19:32:45 --> Input Class Initialized
+INFO - 2022-11-11 19:32:45 --> Language Class Initialized
+INFO - 2022-11-11 19:32:45 --> Loader Class Initialized
+INFO - 2022-11-11 19:32:45 --> Helper loaded: url_helper
+INFO - 2022-11-11 19:32:45 --> Helper loaded: form_helper
+INFO - 2022-11-11 19:32:45 --> Form Validation Class Initialized
+INFO - 2022-11-11 19:32:45 --> Controller Class Initialized
+INFO - 2022-11-11 19:32:45 --> Database Driver Class Initialized
+INFO - 2022-11-11 19:32:45 --> Model "Agreement_model" initialized
+INFO - 2022-11-11 19:32:45 --> File loaded: C:\xampp\htdocs\snte25\application\views\templates/header_view.php
+ERROR - 2022-11-11 19:32:45 --> Severity: Notice --> Undefined variable: total C:\xampp\htdocs\snte25\application\views\templates\agreement_view.php 31
+INFO - 2022-11-11 19:32:45 --> File loaded: C:\xampp\htdocs\snte25\application\views\templates/agreement_view.php
+INFO - 2022-11-11 19:32:45 --> File loaded: C:\xampp\htdocs\snte25\application\views\templates/footer_view.php
+INFO - 2022-11-11 19:32:45 --> Final output sent to browser
+DEBUG - 2022-11-11 19:32:45 --> Total execution time: 0.0926
+INFO - 2022-11-11 19:32:53 --> Config Class Initialized
+INFO - 2022-11-11 19:32:53 --> Hooks Class Initialized
+DEBUG - 2022-11-11 19:32:53 --> UTF-8 Support Enabled
+INFO - 2022-11-11 19:32:53 --> Utf8 Class Initialized
+INFO - 2022-11-11 19:32:53 --> URI Class Initialized
+INFO - 2022-11-11 19:32:53 --> Router Class Initialized
+INFO - 2022-11-11 19:32:53 --> Output Class Initialized
+INFO - 2022-11-11 19:32:53 --> Security Class Initialized
+DEBUG - 2022-11-11 19:32:53 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-11-11 19:32:53 --> Input Class Initialized
+INFO - 2022-11-11 19:32:53 --> Language Class Initialized
+INFO - 2022-11-11 19:32:53 --> Loader Class Initialized
+INFO - 2022-11-11 19:32:53 --> Helper loaded: url_helper
+INFO - 2022-11-11 19:32:53 --> Helper loaded: form_helper
+INFO - 2022-11-11 19:32:53 --> Form Validation Class Initialized
+INFO - 2022-11-11 19:32:53 --> Controller Class Initialized
+INFO - 2022-11-11 19:32:53 --> Database Driver Class Initialized
+INFO - 2022-11-11 19:32:53 --> Model "Agreement_model" initialized
+INFO - 2022-11-11 19:32:53 --> File loaded: C:\xampp\htdocs\snte25\application\views\templates/header_view.php
+INFO - 2022-11-11 19:32:53 --> File loaded: C:\xampp\htdocs\snte25\application\views\templates/agreement_view.php
+INFO - 2022-11-11 19:32:53 --> File loaded: C:\xampp\htdocs\snte25\application\views\templates/footer_view.php
+INFO - 2022-11-11 19:32:53 --> Final output sent to browser
+DEBUG - 2022-11-11 19:32:53 --> Total execution time: 0.0723
+INFO - 2022-11-11 19:34:13 --> Config Class Initialized
+INFO - 2022-11-11 19:34:13 --> Hooks Class Initialized
+DEBUG - 2022-11-11 19:34:13 --> UTF-8 Support Enabled
+INFO - 2022-11-11 19:34:13 --> Utf8 Class Initialized
+INFO - 2022-11-11 19:34:13 --> URI Class Initialized
+INFO - 2022-11-11 19:34:13 --> Router Class Initialized
+INFO - 2022-11-11 19:34:13 --> Output Class Initialized
+INFO - 2022-11-11 19:34:13 --> Security Class Initialized
+DEBUG - 2022-11-11 19:34:13 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-11-11 19:34:13 --> Input Class Initialized
+INFO - 2022-11-11 19:34:13 --> Language Class Initialized
+INFO - 2022-11-11 19:34:13 --> Loader Class Initialized
+INFO - 2022-11-11 19:34:13 --> Helper loaded: url_helper
+INFO - 2022-11-11 19:34:13 --> Helper loaded: form_helper
+INFO - 2022-11-11 19:34:13 --> Form Validation Class Initialized
+INFO - 2022-11-11 19:34:13 --> Controller Class Initialized
+INFO - 2022-11-11 19:34:13 --> Database Driver Class Initialized
+INFO - 2022-11-11 19:34:13 --> Model "Agreement_model" initialized
+ERROR - 2022-11-11 19:34:13 --> Query error: Unknown column 'name_category' in 'field list' - Invalid query: 
+            SELECT
+                COUNT(name_category) as 'total'
+            WHERE
+                status = 0
+        
+INFO - 2022-11-11 19:34:13 --> Language file loaded: language/english/db_lang.php
+INFO - 2022-11-11 19:34:45 --> Config Class Initialized
+INFO - 2022-11-11 19:34:45 --> Hooks Class Initialized
+DEBUG - 2022-11-11 19:34:45 --> UTF-8 Support Enabled
+INFO - 2022-11-11 19:34:45 --> Utf8 Class Initialized
+INFO - 2022-11-11 19:34:45 --> URI Class Initialized
+INFO - 2022-11-11 19:34:45 --> Router Class Initialized
+INFO - 2022-11-11 19:34:45 --> Output Class Initialized
+INFO - 2022-11-11 19:34:45 --> Security Class Initialized
+DEBUG - 2022-11-11 19:34:45 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-11-11 19:34:45 --> Input Class Initialized
+INFO - 2022-11-11 19:34:45 --> Language Class Initialized
+INFO - 2022-11-11 19:34:45 --> Loader Class Initialized
+INFO - 2022-11-11 19:34:45 --> Helper loaded: url_helper
+INFO - 2022-11-11 19:34:45 --> Helper loaded: form_helper
+INFO - 2022-11-11 19:34:45 --> Form Validation Class Initialized
+INFO - 2022-11-11 19:34:45 --> Controller Class Initialized
+INFO - 2022-11-11 19:34:45 --> Database Driver Class Initialized
+INFO - 2022-11-11 19:34:45 --> Model "Agreement_model" initialized
+ERROR - 2022-11-11 19:34:45 --> Severity: error --> Exception: Call to undefined method CI_DB_mysqli_result::resul_array() C:\xampp\htdocs\snte25\application\models\Agreement_model.php 32
+INFO - 2022-11-11 19:35:00 --> Config Class Initialized
+INFO - 2022-11-11 19:35:00 --> Hooks Class Initialized
+DEBUG - 2022-11-11 19:35:00 --> UTF-8 Support Enabled
+INFO - 2022-11-11 19:35:00 --> Utf8 Class Initialized
+INFO - 2022-11-11 19:35:00 --> URI Class Initialized
+INFO - 2022-11-11 19:35:00 --> Router Class Initialized
+INFO - 2022-11-11 19:35:00 --> Output Class Initialized
+INFO - 2022-11-11 19:35:00 --> Security Class Initialized
+DEBUG - 2022-11-11 19:35:00 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-11-11 19:35:00 --> Input Class Initialized
+INFO - 2022-11-11 19:35:00 --> Language Class Initialized
+INFO - 2022-11-11 19:35:00 --> Loader Class Initialized
+INFO - 2022-11-11 19:35:00 --> Helper loaded: url_helper
+INFO - 2022-11-11 19:35:00 --> Helper loaded: form_helper
+INFO - 2022-11-11 19:35:00 --> Form Validation Class Initialized
+INFO - 2022-11-11 19:35:00 --> Controller Class Initialized
+INFO - 2022-11-11 19:35:00 --> Database Driver Class Initialized
+INFO - 2022-11-11 19:35:00 --> Model "Agreement_model" initialized
+INFO - 2022-11-11 19:35:00 --> File loaded: C:\xampp\htdocs\snte25\application\views\templates/header_view.php
+INFO - 2022-11-11 19:35:00 --> File loaded: C:\xampp\htdocs\snte25\application\views\templates/agreement_view.php
+INFO - 2022-11-11 19:35:00 --> File loaded: C:\xampp\htdocs\snte25\application\views\templates/footer_view.php
+INFO - 2022-11-11 19:35:00 --> Final output sent to browser
+DEBUG - 2022-11-11 19:35:00 --> Total execution time: 0.0797
+INFO - 2022-11-11 19:35:34 --> Config Class Initialized
+INFO - 2022-11-11 19:35:34 --> Hooks Class Initialized
+DEBUG - 2022-11-11 19:35:34 --> UTF-8 Support Enabled
+INFO - 2022-11-11 19:35:34 --> Utf8 Class Initialized
+INFO - 2022-11-11 19:35:34 --> URI Class Initialized
+INFO - 2022-11-11 19:35:34 --> Router Class Initialized
+INFO - 2022-11-11 19:35:34 --> Output Class Initialized
+INFO - 2022-11-11 19:35:34 --> Security Class Initialized
+DEBUG - 2022-11-11 19:35:34 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-11-11 19:35:34 --> Input Class Initialized
+INFO - 2022-11-11 19:35:34 --> Language Class Initialized
+INFO - 2022-11-11 19:35:34 --> Loader Class Initialized
+INFO - 2022-11-11 19:35:34 --> Helper loaded: url_helper
+INFO - 2022-11-11 19:35:34 --> Helper loaded: form_helper
+INFO - 2022-11-11 19:35:34 --> Form Validation Class Initialized
+INFO - 2022-11-11 19:35:34 --> Controller Class Initialized
+INFO - 2022-11-11 19:35:34 --> Database Driver Class Initialized
+INFO - 2022-11-11 19:35:34 --> Model "Agreement_model" initialized
+INFO - 2022-11-11 19:35:34 --> File loaded: C:\xampp\htdocs\snte25\application\views\templates/header_view.php
+ERROR - 2022-11-11 19:35:34 --> Severity: Notice --> Undefined variable: data C:\xampp\htdocs\snte25\application\views\templates\agreement_view.php 31
+INFO - 2022-11-11 19:35:34 --> File loaded: C:\xampp\htdocs\snte25\application\views\templates/agreement_view.php
+INFO - 2022-11-11 19:35:34 --> File loaded: C:\xampp\htdocs\snte25\application\views\templates/footer_view.php
+INFO - 2022-11-11 19:35:34 --> Final output sent to browser
+DEBUG - 2022-11-11 19:35:34 --> Total execution time: 0.0773
+INFO - 2022-11-11 19:35:45 --> Config Class Initialized
+INFO - 2022-11-11 19:35:45 --> Hooks Class Initialized
+DEBUG - 2022-11-11 19:35:45 --> UTF-8 Support Enabled
+INFO - 2022-11-11 19:35:45 --> Utf8 Class Initialized
+INFO - 2022-11-11 19:35:45 --> URI Class Initialized
+INFO - 2022-11-11 19:35:45 --> Router Class Initialized
+INFO - 2022-11-11 19:35:45 --> Output Class Initialized
+INFO - 2022-11-11 19:35:45 --> Security Class Initialized
+DEBUG - 2022-11-11 19:35:45 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-11-11 19:35:45 --> Input Class Initialized
+INFO - 2022-11-11 19:35:45 --> Language Class Initialized
+INFO - 2022-11-11 19:35:45 --> Loader Class Initialized
+INFO - 2022-11-11 19:35:45 --> Helper loaded: url_helper
+INFO - 2022-11-11 19:35:45 --> Helper loaded: form_helper
+INFO - 2022-11-11 19:35:45 --> Form Validation Class Initialized
+INFO - 2022-11-11 19:35:45 --> Controller Class Initialized
+INFO - 2022-11-11 19:35:45 --> Database Driver Class Initialized
+INFO - 2022-11-11 19:35:45 --> Model "Agreement_model" initialized
+INFO - 2022-11-11 19:35:45 --> File loaded: C:\xampp\htdocs\snte25\application\views\templates/header_view.php
+ERROR - 2022-11-11 19:35:45 --> Severity: Notice --> Undefined variable: data C:\xampp\htdocs\snte25\application\views\templates\agreement_view.php 31
+ERROR - 2022-11-11 19:35:45 --> Severity: Notice --> Trying to access array offset on value of type null C:\xampp\htdocs\snte25\application\views\templates\agreement_view.php 31
+INFO - 2022-11-11 19:35:45 --> File loaded: C:\xampp\htdocs\snte25\application\views\templates/agreement_view.php
+INFO - 2022-11-11 19:35:45 --> File loaded: C:\xampp\htdocs\snte25\application\views\templates/footer_view.php
+INFO - 2022-11-11 19:35:45 --> Final output sent to browser
+DEBUG - 2022-11-11 19:35:45 --> Total execution time: 0.0999
+INFO - 2022-11-11 19:35:50 --> Config Class Initialized
+INFO - 2022-11-11 19:35:50 --> Hooks Class Initialized
+DEBUG - 2022-11-11 19:35:50 --> UTF-8 Support Enabled
+INFO - 2022-11-11 19:35:50 --> Utf8 Class Initialized
+INFO - 2022-11-11 19:35:50 --> URI Class Initialized
+INFO - 2022-11-11 19:35:50 --> Router Class Initialized
+INFO - 2022-11-11 19:35:50 --> Output Class Initialized
+INFO - 2022-11-11 19:35:50 --> Security Class Initialized
+DEBUG - 2022-11-11 19:35:50 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-11-11 19:35:50 --> Input Class Initialized
+INFO - 2022-11-11 19:35:50 --> Language Class Initialized
+INFO - 2022-11-11 19:35:50 --> Loader Class Initialized
+INFO - 2022-11-11 19:35:50 --> Helper loaded: url_helper
+INFO - 2022-11-11 19:35:50 --> Helper loaded: form_helper
+INFO - 2022-11-11 19:35:50 --> Form Validation Class Initialized
+INFO - 2022-11-11 19:35:50 --> Controller Class Initialized
+INFO - 2022-11-11 19:35:50 --> Database Driver Class Initialized
+INFO - 2022-11-11 19:35:50 --> Model "Agreement_model" initialized
+INFO - 2022-11-11 19:35:50 --> File loaded: C:\xampp\htdocs\snte25\application\views\templates/header_view.php
+ERROR - 2022-11-11 19:35:50 --> Severity: Notice --> Undefined variable: total C:\xampp\htdocs\snte25\application\views\templates\agreement_view.php 31
+INFO - 2022-11-11 19:35:50 --> File loaded: C:\xampp\htdocs\snte25\application\views\templates/agreement_view.php
+INFO - 2022-11-11 19:35:50 --> File loaded: C:\xampp\htdocs\snte25\application\views\templates/footer_view.php
+INFO - 2022-11-11 19:35:50 --> Final output sent to browser
+DEBUG - 2022-11-11 19:35:50 --> Total execution time: 0.0811
+INFO - 2022-11-11 19:36:20 --> Config Class Initialized
+INFO - 2022-11-11 19:36:20 --> Hooks Class Initialized
+DEBUG - 2022-11-11 19:36:20 --> UTF-8 Support Enabled
+INFO - 2022-11-11 19:36:20 --> Utf8 Class Initialized
+INFO - 2022-11-11 19:36:20 --> URI Class Initialized
+INFO - 2022-11-11 19:36:20 --> Router Class Initialized
+INFO - 2022-11-11 19:36:20 --> Output Class Initialized
+INFO - 2022-11-11 19:36:20 --> Security Class Initialized
+DEBUG - 2022-11-11 19:36:20 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-11-11 19:36:20 --> Input Class Initialized
+INFO - 2022-11-11 19:36:20 --> Language Class Initialized
+INFO - 2022-11-11 19:36:20 --> Loader Class Initialized
+INFO - 2022-11-11 19:36:20 --> Helper loaded: url_helper
+INFO - 2022-11-11 19:36:20 --> Helper loaded: form_helper
+INFO - 2022-11-11 19:36:20 --> Form Validation Class Initialized
+INFO - 2022-11-11 19:36:20 --> Controller Class Initialized
+INFO - 2022-11-11 19:36:20 --> Database Driver Class Initialized
+INFO - 2022-11-11 19:36:20 --> Model "Agreement_model" initialized
+INFO - 2022-11-11 19:36:20 --> File loaded: C:\xampp\htdocs\snte25\application\views\templates/header_view.php
+ERROR - 2022-11-11 19:36:20 --> Severity: Notice --> Undefined variable: data C:\xampp\htdocs\snte25\application\views\templates\agreement_view.php 31
+INFO - 2022-11-11 19:36:20 --> File loaded: C:\xampp\htdocs\snte25\application\views\templates/agreement_view.php
+INFO - 2022-11-11 19:36:20 --> File loaded: C:\xampp\htdocs\snte25\application\views\templates/footer_view.php
+INFO - 2022-11-11 19:36:20 --> Final output sent to browser
+DEBUG - 2022-11-11 19:36:20 --> Total execution time: 0.0789
+INFO - 2022-11-11 19:36:21 --> Config Class Initialized
+INFO - 2022-11-11 19:36:21 --> Hooks Class Initialized
+DEBUG - 2022-11-11 19:36:21 --> UTF-8 Support Enabled
+INFO - 2022-11-11 19:36:21 --> Utf8 Class Initialized
+INFO - 2022-11-11 19:36:21 --> URI Class Initialized
+INFO - 2022-11-11 19:36:21 --> Router Class Initialized
+INFO - 2022-11-11 19:36:21 --> Output Class Initialized
+INFO - 2022-11-11 19:36:21 --> Security Class Initialized
+DEBUG - 2022-11-11 19:36:21 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-11-11 19:36:21 --> Input Class Initialized
+INFO - 2022-11-11 19:36:21 --> Language Class Initialized
+INFO - 2022-11-11 19:36:21 --> Loader Class Initialized
+INFO - 2022-11-11 19:36:21 --> Helper loaded: url_helper
+INFO - 2022-11-11 19:36:21 --> Helper loaded: form_helper
+INFO - 2022-11-11 19:36:21 --> Form Validation Class Initialized
+INFO - 2022-11-11 19:36:21 --> Controller Class Initialized
+INFO - 2022-11-11 19:36:21 --> Database Driver Class Initialized
+INFO - 2022-11-11 19:36:21 --> Model "Agreement_model" initialized
+INFO - 2022-11-11 19:36:21 --> File loaded: C:\xampp\htdocs\snte25\application\views\templates/header_view.php
+ERROR - 2022-11-11 19:36:21 --> Severity: Notice --> Undefined variable: data C:\xampp\htdocs\snte25\application\views\templates\agreement_view.php 31
+INFO - 2022-11-11 19:36:21 --> File loaded: C:\xampp\htdocs\snte25\application\views\templates/agreement_view.php
+INFO - 2022-11-11 19:36:21 --> File loaded: C:\xampp\htdocs\snte25\application\views\templates/footer_view.php
+INFO - 2022-11-11 19:36:21 --> Final output sent to browser
+DEBUG - 2022-11-11 19:36:21 --> Total execution time: 0.0862
+INFO - 2022-11-11 19:36:41 --> Config Class Initialized
+INFO - 2022-11-11 19:36:41 --> Hooks Class Initialized
+DEBUG - 2022-11-11 19:36:41 --> UTF-8 Support Enabled
+INFO - 2022-11-11 19:36:41 --> Utf8 Class Initialized
+INFO - 2022-11-11 19:36:41 --> URI Class Initialized
+INFO - 2022-11-11 19:36:41 --> Router Class Initialized
+INFO - 2022-11-11 19:36:41 --> Output Class Initialized
+INFO - 2022-11-11 19:36:41 --> Security Class Initialized
+DEBUG - 2022-11-11 19:36:41 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-11-11 19:36:41 --> Input Class Initialized
+INFO - 2022-11-11 19:36:41 --> Language Class Initialized
+INFO - 2022-11-11 19:36:41 --> Loader Class Initialized
+INFO - 2022-11-11 19:36:41 --> Helper loaded: url_helper
+INFO - 2022-11-11 19:36:41 --> Helper loaded: form_helper
+INFO - 2022-11-11 19:36:41 --> Form Validation Class Initialized
+INFO - 2022-11-11 19:36:41 --> Controller Class Initialized
+INFO - 2022-11-11 19:36:41 --> Database Driver Class Initialized
+INFO - 2022-11-11 19:36:41 --> Model "Agreement_model" initialized
+INFO - 2022-11-11 19:36:41 --> File loaded: C:\xampp\htdocs\snte25\application\views\templates/header_view.php
+ERROR - 2022-11-11 19:36:41 --> Severity: Notice --> Undefined variable: total C:\xampp\htdocs\snte25\application\views\templates\agreement_view.php 31
+INFO - 2022-11-11 19:36:41 --> File loaded: C:\xampp\htdocs\snte25\application\views\templates/agreement_view.php
+INFO - 2022-11-11 19:36:41 --> File loaded: C:\xampp\htdocs\snte25\application\views\templates/footer_view.php
+INFO - 2022-11-11 19:36:41 --> Final output sent to browser
+DEBUG - 2022-11-11 19:36:41 --> Total execution time: 0.0783
+INFO - 2022-11-11 19:37:04 --> Config Class Initialized
+INFO - 2022-11-11 19:37:04 --> Hooks Class Initialized
+DEBUG - 2022-11-11 19:37:04 --> UTF-8 Support Enabled
+INFO - 2022-11-11 19:37:04 --> Utf8 Class Initialized
+INFO - 2022-11-11 19:37:04 --> URI Class Initialized
+INFO - 2022-11-11 19:37:04 --> Router Class Initialized
+INFO - 2022-11-11 19:37:04 --> Output Class Initialized
+INFO - 2022-11-11 19:37:04 --> Security Class Initialized
+DEBUG - 2022-11-11 19:37:04 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-11-11 19:37:04 --> Input Class Initialized
+INFO - 2022-11-11 19:37:04 --> Language Class Initialized
+INFO - 2022-11-11 19:37:04 --> Loader Class Initialized
+INFO - 2022-11-11 19:37:04 --> Helper loaded: url_helper
+INFO - 2022-11-11 19:37:04 --> Helper loaded: form_helper
+INFO - 2022-11-11 19:37:04 --> Form Validation Class Initialized
+INFO - 2022-11-11 19:37:04 --> Controller Class Initialized
+INFO - 2022-11-11 19:37:04 --> Database Driver Class Initialized
+INFO - 2022-11-11 19:37:04 --> Model "Agreement_model" initialized
+INFO - 2022-11-11 19:37:04 --> File loaded: C:\xampp\htdocs\snte25\application\views\templates/header_view.php
+INFO - 2022-11-11 19:37:04 --> File loaded: C:\xampp\htdocs\snte25\application\views\templates/agreement_view.php
+INFO - 2022-11-11 19:37:04 --> File loaded: C:\xampp\htdocs\snte25\application\views\templates/footer_view.php
+INFO - 2022-11-11 19:37:04 --> Final output sent to browser
+DEBUG - 2022-11-11 19:37:04 --> Total execution time: 0.0739
+INFO - 2022-11-11 19:37:31 --> Config Class Initialized
+INFO - 2022-11-11 19:37:31 --> Hooks Class Initialized
+DEBUG - 2022-11-11 19:37:31 --> UTF-8 Support Enabled
+INFO - 2022-11-11 19:37:31 --> Utf8 Class Initialized
+INFO - 2022-11-11 19:37:31 --> URI Class Initialized
+INFO - 2022-11-11 19:37:31 --> Router Class Initialized
+INFO - 2022-11-11 19:37:31 --> Output Class Initialized
+INFO - 2022-11-11 19:37:31 --> Security Class Initialized
+DEBUG - 2022-11-11 19:37:31 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-11-11 19:37:31 --> Input Class Initialized
+INFO - 2022-11-11 19:37:31 --> Language Class Initialized
+INFO - 2022-11-11 19:37:31 --> Loader Class Initialized
+INFO - 2022-11-11 19:37:31 --> Helper loaded: url_helper
+INFO - 2022-11-11 19:37:31 --> Helper loaded: form_helper
+INFO - 2022-11-11 19:37:31 --> Form Validation Class Initialized
+INFO - 2022-11-11 19:37:31 --> Controller Class Initialized
+INFO - 2022-11-11 19:37:31 --> Database Driver Class Initialized
+INFO - 2022-11-11 19:37:31 --> Model "Agreement_model" initialized
+INFO - 2022-11-11 19:37:31 --> File loaded: C:\xampp\htdocs\snte25\application\views\templates/header_view.php
+INFO - 2022-11-11 19:37:31 --> File loaded: C:\xampp\htdocs\snte25\application\views\templates/agreement_view.php
+INFO - 2022-11-11 19:37:31 --> File loaded: C:\xampp\htdocs\snte25\application\views\templates/footer_view.php
+INFO - 2022-11-11 19:37:31 --> Final output sent to browser
+DEBUG - 2022-11-11 19:37:31 --> Total execution time: 0.0753
+INFO - 2022-11-11 19:37:41 --> Config Class Initialized
+INFO - 2022-11-11 19:37:41 --> Hooks Class Initialized
+DEBUG - 2022-11-11 19:37:41 --> UTF-8 Support Enabled
+INFO - 2022-11-11 19:37:41 --> Utf8 Class Initialized
+INFO - 2022-11-11 19:37:41 --> URI Class Initialized
+INFO - 2022-11-11 19:37:41 --> Router Class Initialized
+INFO - 2022-11-11 19:37:41 --> Output Class Initialized
+INFO - 2022-11-11 19:37:41 --> Security Class Initialized
+DEBUG - 2022-11-11 19:37:41 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-11-11 19:37:41 --> Input Class Initialized
+INFO - 2022-11-11 19:37:41 --> Language Class Initialized
+INFO - 2022-11-11 19:37:41 --> Loader Class Initialized
+INFO - 2022-11-11 19:37:41 --> Helper loaded: url_helper
+INFO - 2022-11-11 19:37:41 --> Helper loaded: form_helper
+INFO - 2022-11-11 19:37:41 --> Form Validation Class Initialized
+INFO - 2022-11-11 19:37:41 --> Controller Class Initialized
+INFO - 2022-11-11 19:37:41 --> Database Driver Class Initialized
+INFO - 2022-11-11 19:37:41 --> Model "Agreement_model" initialized
+INFO - 2022-11-11 19:37:41 --> File loaded: C:\xampp\htdocs\snte25\application\views\templates/header_view.php
+ERROR - 2022-11-11 19:37:41 --> Severity: Notice --> Undefined index: total C:\xampp\htdocs\snte25\application\views\templates\agreement_view.php 31
+INFO - 2022-11-11 19:37:41 --> File loaded: C:\xampp\htdocs\snte25\application\views\templates/agreement_view.php
+INFO - 2022-11-11 19:37:41 --> File loaded: C:\xampp\htdocs\snte25\application\views\templates/footer_view.php
+INFO - 2022-11-11 19:37:41 --> Final output sent to browser
+DEBUG - 2022-11-11 19:37:41 --> Total execution time: 0.0803
+INFO - 2022-11-11 19:38:39 --> Config Class Initialized
+INFO - 2022-11-11 19:38:39 --> Hooks Class Initialized
+DEBUG - 2022-11-11 19:38:39 --> UTF-8 Support Enabled
+INFO - 2022-11-11 19:38:39 --> Utf8 Class Initialized
+INFO - 2022-11-11 19:38:39 --> URI Class Initialized
+INFO - 2022-11-11 19:38:39 --> Router Class Initialized
+INFO - 2022-11-11 19:38:39 --> Output Class Initialized
+INFO - 2022-11-11 19:38:39 --> Security Class Initialized
+DEBUG - 2022-11-11 19:38:39 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-11-11 19:38:39 --> Input Class Initialized
+INFO - 2022-11-11 19:38:39 --> Language Class Initialized
+INFO - 2022-11-11 19:38:39 --> Loader Class Initialized
+INFO - 2022-11-11 19:38:39 --> Helper loaded: url_helper
+INFO - 2022-11-11 19:38:39 --> Helper loaded: form_helper
+INFO - 2022-11-11 19:38:39 --> Form Validation Class Initialized
+INFO - 2022-11-11 19:38:39 --> Controller Class Initialized
+INFO - 2022-11-11 19:38:39 --> Database Driver Class Initialized
+INFO - 2022-11-11 19:38:39 --> Model "Agreement_model" initialized
+INFO - 2022-11-11 19:38:39 --> File loaded: C:\xampp\htdocs\snte25\application\views\templates/header_view.php
+INFO - 2022-11-11 19:38:39 --> File loaded: C:\xampp\htdocs\snte25\application\views\templates/agreement_view.php
+INFO - 2022-11-11 19:38:39 --> File loaded: C:\xampp\htdocs\snte25\application\views\templates/footer_view.php
+INFO - 2022-11-11 19:38:39 --> Final output sent to browser
+DEBUG - 2022-11-11 19:38:39 --> Total execution time: 0.0802
+INFO - 2022-11-11 19:38:55 --> Config Class Initialized
+INFO - 2022-11-11 19:38:55 --> Hooks Class Initialized
+DEBUG - 2022-11-11 19:38:55 --> UTF-8 Support Enabled
+INFO - 2022-11-11 19:38:55 --> Utf8 Class Initialized
+INFO - 2022-11-11 19:38:55 --> URI Class Initialized
+INFO - 2022-11-11 19:38:55 --> Router Class Initialized
+INFO - 2022-11-11 19:38:55 --> Output Class Initialized
+INFO - 2022-11-11 19:38:55 --> Security Class Initialized
+DEBUG - 2022-11-11 19:38:55 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-11-11 19:38:55 --> Input Class Initialized
+INFO - 2022-11-11 19:38:55 --> Language Class Initialized
+INFO - 2022-11-11 19:38:55 --> Loader Class Initialized
+INFO - 2022-11-11 19:38:55 --> Helper loaded: url_helper
+INFO - 2022-11-11 19:38:55 --> Helper loaded: form_helper
+INFO - 2022-11-11 19:38:55 --> Form Validation Class Initialized
+INFO - 2022-11-11 19:38:55 --> Controller Class Initialized
+INFO - 2022-11-11 19:38:55 --> Database Driver Class Initialized
+INFO - 2022-11-11 19:38:55 --> Model "Agreement_model" initialized
+INFO - 2022-11-11 19:38:55 --> File loaded: C:\xampp\htdocs\snte25\application\views\templates/header_view.php
+ERROR - 2022-11-11 19:38:55 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\snte25\application\views\templates\agreement_view.php 32
+INFO - 2022-11-11 19:38:55 --> File loaded: C:\xampp\htdocs\snte25\application\views\templates/agreement_view.php
+INFO - 2022-11-11 19:38:56 --> File loaded: C:\xampp\htdocs\snte25\application\views\templates/footer_view.php
+INFO - 2022-11-11 19:38:56 --> Final output sent to browser
+DEBUG - 2022-11-11 19:38:56 --> Total execution time: 0.1264
+INFO - 2022-11-11 19:39:55 --> Config Class Initialized
+INFO - 2022-11-11 19:39:55 --> Hooks Class Initialized
+DEBUG - 2022-11-11 19:39:55 --> UTF-8 Support Enabled
+INFO - 2022-11-11 19:39:55 --> Utf8 Class Initialized
+INFO - 2022-11-11 19:39:55 --> URI Class Initialized
+INFO - 2022-11-11 19:39:55 --> Router Class Initialized
+INFO - 2022-11-11 19:39:55 --> Output Class Initialized
+INFO - 2022-11-11 19:39:55 --> Security Class Initialized
+DEBUG - 2022-11-11 19:39:55 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-11-11 19:39:55 --> Input Class Initialized
+INFO - 2022-11-11 19:39:55 --> Language Class Initialized
+INFO - 2022-11-11 19:39:55 --> Loader Class Initialized
+INFO - 2022-11-11 19:39:55 --> Helper loaded: url_helper
+INFO - 2022-11-11 19:39:55 --> Helper loaded: form_helper
+INFO - 2022-11-11 19:39:55 --> Form Validation Class Initialized
+INFO - 2022-11-11 19:39:55 --> Controller Class Initialized
+INFO - 2022-11-11 19:39:55 --> Database Driver Class Initialized
+INFO - 2022-11-11 19:39:55 --> Model "Agreement_model" initialized
+INFO - 2022-11-11 19:39:55 --> File loaded: C:\xampp\htdocs\snte25\application\views\templates/header_view.php
+ERROR - 2022-11-11 19:39:55 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\snte25\application\views\templates\agreement_view.php 33
+INFO - 2022-11-11 19:39:55 --> File loaded: C:\xampp\htdocs\snte25\application\views\templates/agreement_view.php
+INFO - 2022-11-11 19:39:55 --> File loaded: C:\xampp\htdocs\snte25\application\views\templates/footer_view.php
+INFO - 2022-11-11 19:39:55 --> Final output sent to browser
+DEBUG - 2022-11-11 19:39:55 --> Total execution time: 0.0806
+INFO - 2022-11-11 19:40:04 --> Config Class Initialized
+INFO - 2022-11-11 19:40:04 --> Hooks Class Initialized
+DEBUG - 2022-11-11 19:40:04 --> UTF-8 Support Enabled
+INFO - 2022-11-11 19:40:04 --> Utf8 Class Initialized
+INFO - 2022-11-11 19:40:04 --> URI Class Initialized
+INFO - 2022-11-11 19:40:04 --> Router Class Initialized
+INFO - 2022-11-11 19:40:04 --> Output Class Initialized
+INFO - 2022-11-11 19:40:04 --> Security Class Initialized
+DEBUG - 2022-11-11 19:40:04 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-11-11 19:40:04 --> Input Class Initialized
+INFO - 2022-11-11 19:40:04 --> Language Class Initialized
+INFO - 2022-11-11 19:40:04 --> Loader Class Initialized
+INFO - 2022-11-11 19:40:04 --> Helper loaded: url_helper
+INFO - 2022-11-11 19:40:04 --> Helper loaded: form_helper
+INFO - 2022-11-11 19:40:04 --> Form Validation Class Initialized
+INFO - 2022-11-11 19:40:04 --> Controller Class Initialized
+INFO - 2022-11-11 19:40:04 --> Database Driver Class Initialized
+INFO - 2022-11-11 19:40:04 --> Model "Agreement_model" initialized
+INFO - 2022-11-11 19:40:04 --> File loaded: C:\xampp\htdocs\snte25\application\views\templates/header_view.php
+ERROR - 2022-11-11 19:40:04 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\snte25\application\views\templates\agreement_view.php 33
+INFO - 2022-11-11 19:40:04 --> File loaded: C:\xampp\htdocs\snte25\application\views\templates/agreement_view.php
+INFO - 2022-11-11 19:40:04 --> File loaded: C:\xampp\htdocs\snte25\application\views\templates/footer_view.php
+INFO - 2022-11-11 19:40:04 --> Final output sent to browser
+DEBUG - 2022-11-11 19:40:04 --> Total execution time: 0.0862
+INFO - 2022-11-11 19:40:28 --> Config Class Initialized
+INFO - 2022-11-11 19:40:28 --> Hooks Class Initialized
+DEBUG - 2022-11-11 19:40:28 --> UTF-8 Support Enabled
+INFO - 2022-11-11 19:40:28 --> Utf8 Class Initialized
+INFO - 2022-11-11 19:40:28 --> URI Class Initialized
+INFO - 2022-11-11 19:40:28 --> Router Class Initialized
+INFO - 2022-11-11 19:40:28 --> Output Class Initialized
+INFO - 2022-11-11 19:40:28 --> Security Class Initialized
+DEBUG - 2022-11-11 19:40:28 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-11-11 19:40:28 --> Input Class Initialized
+INFO - 2022-11-11 19:40:28 --> Language Class Initialized
+INFO - 2022-11-11 19:40:28 --> Loader Class Initialized
+INFO - 2022-11-11 19:40:28 --> Helper loaded: url_helper
+INFO - 2022-11-11 19:40:28 --> Helper loaded: form_helper
+INFO - 2022-11-11 19:40:28 --> Form Validation Class Initialized
+INFO - 2022-11-11 19:40:28 --> Controller Class Initialized
+INFO - 2022-11-11 19:40:28 --> Database Driver Class Initialized
+INFO - 2022-11-11 19:40:28 --> Model "Agreement_model" initialized
+INFO - 2022-11-11 19:40:28 --> File loaded: C:\xampp\htdocs\snte25\application\views\templates/header_view.php
+INFO - 2022-11-11 19:40:28 --> File loaded: C:\xampp\htdocs\snte25\application\views\templates/agreement_view.php
+INFO - 2022-11-11 19:40:28 --> File loaded: C:\xampp\htdocs\snte25\application\views\templates/footer_view.php
+INFO - 2022-11-11 19:40:28 --> Final output sent to browser
+DEBUG - 2022-11-11 19:40:28 --> Total execution time: 0.0795
+INFO - 2022-11-11 19:44:32 --> Config Class Initialized
+INFO - 2022-11-11 19:44:32 --> Hooks Class Initialized
+DEBUG - 2022-11-11 19:44:32 --> UTF-8 Support Enabled
+INFO - 2022-11-11 19:44:32 --> Utf8 Class Initialized
+INFO - 2022-11-11 19:44:32 --> URI Class Initialized
+INFO - 2022-11-11 19:44:32 --> Router Class Initialized
+INFO - 2022-11-11 19:44:32 --> Output Class Initialized
+INFO - 2022-11-11 19:44:32 --> Security Class Initialized
+DEBUG - 2022-11-11 19:44:32 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-11-11 19:44:32 --> Input Class Initialized
+INFO - 2022-11-11 19:44:32 --> Language Class Initialized
+INFO - 2022-11-11 19:44:32 --> Loader Class Initialized
+INFO - 2022-11-11 19:44:32 --> Helper loaded: url_helper
+INFO - 2022-11-11 19:44:32 --> Helper loaded: form_helper
+INFO - 2022-11-11 19:44:32 --> Form Validation Class Initialized
+INFO - 2022-11-11 19:44:32 --> Controller Class Initialized
+INFO - 2022-11-11 19:44:32 --> Database Driver Class Initialized
+INFO - 2022-11-11 19:44:32 --> Model "Agreement_model" initialized
+INFO - 2022-11-11 19:44:32 --> File loaded: C:\xampp\htdocs\snte25\application\views\templates/header_view.php
+INFO - 2022-11-11 19:44:32 --> File loaded: C:\xampp\htdocs\snte25\application\views\templates/agreement_view.php
+INFO - 2022-11-11 19:44:32 --> File loaded: C:\xampp\htdocs\snte25\application\views\templates/footer_view.php
+INFO - 2022-11-11 19:44:32 --> Final output sent to browser
+DEBUG - 2022-11-11 19:44:32 --> Total execution time: 0.0808
+INFO - 2022-11-11 19:49:27 --> Config Class Initialized
+INFO - 2022-11-11 19:49:27 --> Hooks Class Initialized
+DEBUG - 2022-11-11 19:49:27 --> UTF-8 Support Enabled
+INFO - 2022-11-11 19:49:27 --> Utf8 Class Initialized
+INFO - 2022-11-11 19:49:27 --> URI Class Initialized
+INFO - 2022-11-11 19:49:27 --> Router Class Initialized
+INFO - 2022-11-11 19:49:27 --> Output Class Initialized
+INFO - 2022-11-11 19:49:27 --> Security Class Initialized
+DEBUG - 2022-11-11 19:49:28 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-11-11 19:49:28 --> Input Class Initialized
+INFO - 2022-11-11 19:49:28 --> Language Class Initialized
+INFO - 2022-11-11 19:49:28 --> Loader Class Initialized
+INFO - 2022-11-11 19:49:28 --> Helper loaded: url_helper
+INFO - 2022-11-11 19:49:28 --> Helper loaded: form_helper
+INFO - 2022-11-11 19:49:28 --> Form Validation Class Initialized
+INFO - 2022-11-11 19:49:28 --> Controller Class Initialized
+INFO - 2022-11-11 19:49:28 --> File loaded: C:\xampp\htdocs\snte25\application\views\templates/header_view.php
+INFO - 2022-11-11 19:49:28 --> File loaded: C:\xampp\htdocs\snte25\application\views\templates/unionsection_view.php
+INFO - 2022-11-11 19:49:28 --> File loaded: C:\xampp\htdocs\snte25\application\views\templates/footer_view.php
+INFO - 2022-11-11 19:49:28 --> Final output sent to browser
+DEBUG - 2022-11-11 19:49:28 --> Total execution time: 0.0980
+INFO - 2022-11-11 19:49:32 --> Config Class Initialized
+INFO - 2022-11-11 19:49:32 --> Hooks Class Initialized
+DEBUG - 2022-11-11 19:49:32 --> UTF-8 Support Enabled
+INFO - 2022-11-11 19:49:32 --> Utf8 Class Initialized
+INFO - 2022-11-11 19:49:32 --> URI Class Initialized
+INFO - 2022-11-11 19:49:32 --> Router Class Initialized
+INFO - 2022-11-11 19:49:32 --> Output Class Initialized
+INFO - 2022-11-11 19:49:32 --> Security Class Initialized
+DEBUG - 2022-11-11 19:49:32 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-11-11 19:49:32 --> Input Class Initialized
+INFO - 2022-11-11 19:49:32 --> Language Class Initialized
+INFO - 2022-11-11 19:49:32 --> Loader Class Initialized
+INFO - 2022-11-11 19:49:32 --> Helper loaded: url_helper
+INFO - 2022-11-11 19:49:32 --> Helper loaded: form_helper
+INFO - 2022-11-11 19:49:32 --> Form Validation Class Initialized
+INFO - 2022-11-11 19:49:32 --> Controller Class Initialized
+DEBUG - 2022-11-11 19:49:32 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2022-11-11 19:49:32 --> Session: Class initialized using 'files' driver.
+INFO - 2022-11-11 19:49:32 --> File loaded: C:\xampp\htdocs\snte25\application\views\templates/header_view.php
+INFO - 2022-11-11 19:49:32 --> File loaded: C:\xampp\htdocs\snte25\application\views\templates/library_view.php
+INFO - 2022-11-11 19:49:32 --> File loaded: C:\xampp\htdocs\snte25\application\views\templates/footer_view.php
+INFO - 2022-11-11 19:49:32 --> Final output sent to browser
+DEBUG - 2022-11-11 19:49:32 --> Total execution time: 0.1633
+INFO - 2022-11-11 19:49:36 --> Config Class Initialized
+INFO - 2022-11-11 19:49:36 --> Hooks Class Initialized
+DEBUG - 2022-11-11 19:49:36 --> UTF-8 Support Enabled
+INFO - 2022-11-11 19:49:36 --> Utf8 Class Initialized
+INFO - 2022-11-11 19:49:36 --> URI Class Initialized
+INFO - 2022-11-11 19:49:36 --> Router Class Initialized
+INFO - 2022-11-11 19:49:36 --> Output Class Initialized
+INFO - 2022-11-11 19:49:36 --> Security Class Initialized
+DEBUG - 2022-11-11 19:49:36 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-11-11 19:49:36 --> Input Class Initialized
+INFO - 2022-11-11 19:49:36 --> Language Class Initialized
+INFO - 2022-11-11 19:49:36 --> Loader Class Initialized
+INFO - 2022-11-11 19:49:36 --> Helper loaded: url_helper
+INFO - 2022-11-11 19:49:36 --> Helper loaded: form_helper
+INFO - 2022-11-11 19:49:36 --> Form Validation Class Initialized
+INFO - 2022-11-11 19:49:36 --> Controller Class Initialized
+DEBUG - 2022-11-11 19:49:36 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2022-11-11 19:49:36 --> Session: Class initialized using 'files' driver.
+INFO - 2022-11-11 19:49:36 --> File loaded: C:\xampp\htdocs\snte25\application\views\templates/header_view.php
+INFO - 2022-11-11 19:49:36 --> File loaded: C:\xampp\htdocs\snte25\application\views\templates/library_state_view.php
+INFO - 2022-11-11 19:49:36 --> File loaded: C:\xampp\htdocs\snte25\application\views\templates/footer_view.php
+INFO - 2022-11-11 19:49:36 --> Final output sent to browser
+DEBUG - 2022-11-11 19:49:36 --> Total execution time: 0.1025
+INFO - 2022-11-11 19:49:38 --> Config Class Initialized
+INFO - 2022-11-11 19:49:38 --> Hooks Class Initialized
+DEBUG - 2022-11-11 19:49:38 --> UTF-8 Support Enabled
+INFO - 2022-11-11 19:49:38 --> Utf8 Class Initialized
+INFO - 2022-11-11 19:49:38 --> URI Class Initialized
+INFO - 2022-11-11 19:49:38 --> Router Class Initialized
+INFO - 2022-11-11 19:49:38 --> Output Class Initialized
+INFO - 2022-11-11 19:49:38 --> Security Class Initialized
+DEBUG - 2022-11-11 19:49:38 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-11-11 19:49:38 --> Input Class Initialized
+INFO - 2022-11-11 19:49:38 --> Language Class Initialized
+INFO - 2022-11-11 19:49:38 --> Loader Class Initialized
+INFO - 2022-11-11 19:49:38 --> Helper loaded: url_helper
+INFO - 2022-11-11 19:49:38 --> Helper loaded: form_helper
+INFO - 2022-11-11 19:49:38 --> Form Validation Class Initialized
+INFO - 2022-11-11 19:49:38 --> Controller Class Initialized
+DEBUG - 2022-11-11 19:49:38 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2022-11-11 19:49:38 --> Session: Class initialized using 'files' driver.
+INFO - 2022-11-11 19:49:38 --> File loaded: C:\xampp\htdocs\snte25\application\views\templates/header_view.php
+INFO - 2022-11-11 19:49:38 --> File loaded: C:\xampp\htdocs\snte25\application\views\templates/library_view.php
+INFO - 2022-11-11 19:49:38 --> File loaded: C:\xampp\htdocs\snte25\application\views\templates/footer_view.php
+INFO - 2022-11-11 19:49:38 --> Final output sent to browser
+DEBUG - 2022-11-11 19:49:38 --> Total execution time: 0.0863
+INFO - 2022-11-11 19:49:40 --> Config Class Initialized
+INFO - 2022-11-11 19:49:40 --> Hooks Class Initialized
+DEBUG - 2022-11-11 19:49:40 --> UTF-8 Support Enabled
+INFO - 2022-11-11 19:49:40 --> Utf8 Class Initialized
+INFO - 2022-11-11 19:49:40 --> URI Class Initialized
+INFO - 2022-11-11 19:49:40 --> Router Class Initialized
+INFO - 2022-11-11 19:49:40 --> Output Class Initialized
+INFO - 2022-11-11 19:49:40 --> Security Class Initialized
+DEBUG - 2022-11-11 19:49:40 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-11-11 19:49:40 --> Input Class Initialized
+INFO - 2022-11-11 19:49:40 --> Language Class Initialized
+INFO - 2022-11-11 19:49:40 --> Loader Class Initialized
+INFO - 2022-11-11 19:49:40 --> Helper loaded: url_helper
+INFO - 2022-11-11 19:49:40 --> Helper loaded: form_helper
+INFO - 2022-11-11 19:49:40 --> Form Validation Class Initialized
+INFO - 2022-11-11 19:49:40 --> Controller Class Initialized
+DEBUG - 2022-11-11 19:49:40 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2022-11-11 19:49:40 --> Session: Class initialized using 'files' driver.
+INFO - 2022-11-11 19:49:40 --> File loaded: C:\xampp\htdocs\snte25\application\views\templates/header_view.php
+INFO - 2022-11-11 19:49:40 --> File loaded: C:\xampp\htdocs\snte25\application\views\templates/contact_view.php
+INFO - 2022-11-11 19:49:40 --> File loaded: C:\xampp\htdocs\snte25\application\views\templates/footer_view.php
+INFO - 2022-11-11 19:49:40 --> Final output sent to browser
+DEBUG - 2022-11-11 19:49:40 --> Total execution time: 0.0968
