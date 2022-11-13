@@ -44,7 +44,7 @@
                         <div class="single-contact-info">
                             <h4>Correo electrónico</h4>
                             <p>
-                                aquivaelcorreo@correo.com
+                                buzon@snte25.org
                             </p>
                         </div>
                         <div class="single-contact-info">
