@@ -53,23 +53,27 @@ $route['default_controller'] = 'home';
 $route['404_override'] = '';
 $route['translate_uri_dashes'] = FALSE;
 
+/** Home page */
 $route['inicio'] = 'home';
-
+/** Multimedia page */
 $route['multimedia'] = 'multimedia';
 $route['multimedia/videos'] = 'multimedia/video';
-
+/** Agreements page */
 $route['convenios'] = 'agreement';
 $route['convenios/nacionales'] = 'agreement/national';
 $route['convenios/estatales/(:any)'] = 'agreement/state/$1';
-
+/** Convocatoria y Comunicados page */
 $route['convocatoriaycomunicado'] = 'announcementrelease';
+/** Unionsection page */
 $route['seccionsindical'] = 'unionsection';
+/** Services page */
 $route['servicios'] = 'modules/services';
-
+/** Library pago */
 $route['biblioteca'] = 'modules/library';
 $route['biblioteca-nacional'] = 'modules/librarynational';
 $route['biblioteca-estatal'] = 'modules/librarystate';
-
+/** News page */
 $route['noticias'] = 'modules/news';
+/** Contact page */
 $route['contacto'] = 'modules/contact';
 $route['send'] = 'modules/enviar';

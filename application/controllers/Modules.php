@@ -8,6 +8,7 @@ class Modules extends CI_Controller
         parent::__construct();
         $this->load->helper('url');
         $this->load->library('session');
+        $this->load->model("News_model");
     }
 
     public function index()
@@ -46,11 +47,12 @@ class Modules extends CI_Controller
     }
 
     /**
-     * Library page
+     * News page
      */
     public function news() {
+        $data['news'] = $this->News_model->getNews();
         $this->load->view('templates/header_view.php');
-        $this->load->view('templates/news_view.php');
+        $this->load->view('templates/news_view.php', $data);
         $this->load->view('templates/footer_view.php');
     }
 

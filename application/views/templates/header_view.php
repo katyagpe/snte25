@@ -36,7 +36,7 @@
               <li class="nav-item"> <a class="nav-link" href="<?php echo base_url() ?>seccionsindical/">Sección sindical</a></li>
               <li class="nav-item"> <a class="nav-link" href="#">Servicios</a></li>
               <li class="nav-item"> <a class="nav-link" href="<?php echo base_url() ?>biblioteca/">Biblioteca</a></li>
-              <li class="nav-item"> <a class="nav-link" href="#">Noticias</a></li>
+              <li class="nav-item"> <a class="nav-link" href="<?php echo base_url() ?>noticias/">Noticias</a></li>
               <li class="nav-item"> <a class="nav-link" href="<?php echo base_url() ?>contacto/">Contacto</a></li>
             </ul>
           </div>

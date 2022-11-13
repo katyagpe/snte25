@@ -1369,3 +1369,26 @@ INFO - 2022-11-11 19:49:40 --> File loaded: C:\xampp\htdocs\snte25\application\v
 INFO - 2022-11-11 19:49:40 --> File loaded: C:\xampp\htdocs\snte25\application\views\templates/footer_view.php
 INFO - 2022-11-11 19:49:40 --> Final output sent to browser
 DEBUG - 2022-11-11 19:49:40 --> Total execution time: 0.0968
+INFO - 2022-11-11 19:51:39 --> Config Class Initialized
+INFO - 2022-11-11 19:51:39 --> Hooks Class Initialized
+DEBUG - 2022-11-11 19:51:39 --> UTF-8 Support Enabled
+INFO - 2022-11-11 19:51:39 --> Utf8 Class Initialized
+INFO - 2022-11-11 19:51:39 --> URI Class Initialized
+INFO - 2022-11-11 19:51:39 --> Router Class Initialized
+INFO - 2022-11-11 19:51:39 --> Output Class Initialized
+INFO - 2022-11-11 19:51:39 --> Security Class Initialized
+DEBUG - 2022-11-11 19:51:39 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-11-11 19:51:39 --> Input Class Initialized
+INFO - 2022-11-11 19:51:39 --> Language Class Initialized
+INFO - 2022-11-11 19:51:39 --> Loader Class Initialized
+INFO - 2022-11-11 19:51:39 --> Helper loaded: url_helper
+INFO - 2022-11-11 19:51:39 --> Helper loaded: form_helper
+INFO - 2022-11-11 19:51:39 --> Form Validation Class Initialized
+INFO - 2022-11-11 19:51:39 --> Controller Class Initialized
+DEBUG - 2022-11-11 19:51:39 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2022-11-11 19:51:39 --> Session: Class initialized using 'files' driver.
+INFO - 2022-11-11 19:51:39 --> File loaded: C:\xampp\htdocs\snte25\application\views\templates/header_view.php
+INFO - 2022-11-11 19:51:39 --> File loaded: C:\xampp\htdocs\snte25\application\views\templates/contact_view.php
+INFO - 2022-11-11 19:51:39 --> File loaded: C:\xampp\htdocs\snte25\application\views\templates/footer_view.php
+INFO - 2022-11-11 19:51:39 --> Final output sent to browser
+DEBUG - 2022-11-11 19:51:39 --> Total execution time: 0.0831
